@@ -1,0 +1,1 @@
+The purpose of this project is to demonstrate what I've learned in regards to Git and GitHub from The Odin Project curriculum.
